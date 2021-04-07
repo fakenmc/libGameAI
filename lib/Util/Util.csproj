@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>LibGameAI.PathFinding</AssemblyName>
-    <RootNamespace>LibGameAI.PathFinding</RootNamespace>
+    <AssemblyName>LibGameAI.Util</AssemblyName>
+    <RootNamespace>LibGameAI.Util</RootNamespace>
     <Authors>Nuno Fachada</Authors>
-    <Description>Pathfinding algorithms</Description>
-    <Copyright>Copyright (c) 2018-2021 Nuno Fachada and Contributors</Copyright>
+    <Description>Utility classes</Description>
+    <Copyright>Copyright (c) 2021 Nuno Fachada and Contributors</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/fakenmc/libGameAI</PackageProjectUrl>
     <RepositoryUrl>https://github.com/fakenmc/libGameAI</RepositoryUrl>

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNG", "RNG\RNG.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcGen", "ProcGen\ProcGen.csproj", "{6E6C9062-04E6-478D-8240-EAA6C0893BEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", "{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -142,5 +144,17 @@ Global
 		{6E6C9062-04E6-478D-8240-EAA6C0893BEE}.Release|x64.Build.0 = Release|Any CPU
 		{6E6C9062-04E6-478D-8240-EAA6C0893BEE}.Release|x86.ActiveCfg = Release|Any CPU
 		{6E6C9062-04E6-478D-8240-EAA6C0893BEE}.Release|x86.Build.0 = Release|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Debug|x64.Build.0 = Debug|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Release|x64.ActiveCfg = Release|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Release|x64.Build.0 = Release|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1988C5A-ADF2-4BD9-8BCD-C52152B0862A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
